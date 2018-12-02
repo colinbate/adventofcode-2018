@@ -29,3 +29,4 @@ Some possibilities. Requirement was that they needed to be relatively easy to se
 ## Languages Used
 
   * Day 1: JavaScript (Node.js)
+  * Day 2: Perl
