@@ -30,3 +30,4 @@ Some possibilities. Requirement was that they needed to be relatively easy to se
 
   * Day 1: JavaScript (Node.js)
   * Day 2: Perl
+  * Day 3: Rust
