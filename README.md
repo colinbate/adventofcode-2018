@@ -37,3 +37,4 @@ Languages which will probably not be used due to appropriateness or timeliness.
   * Day 2: Perl
   * Day 3: Rust
   * Day 4: C#
+  * Day 5: C
