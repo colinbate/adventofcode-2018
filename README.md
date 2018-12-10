@@ -2,34 +2,38 @@
 
 I'm taking a stab at this challenge. In addition to the puzzles themselves, I think I'm going to try the polyglot approach and use different languages for each day to give me a reason to try them, particularly for the early days when things are conceptually easier.
 
-## Language Options
+From Day 11 onward, I will be deciding on a language based on the nature of the problem presented.
 
-Some possibilities. Requirement was that they needed to be relatively easy to setup or already present on a Mac. Or there is some easy way to compile/run online. These are ordered roughly based on my familiarity with them. And I may or may not take the time to learn some of the ones which I've never used before.
+## Language Choices
 
-  1. JavaScript (installed)
-  1. C# (`dotnet` installed)
-  1. PowerShell (installed)
-  1. PHP (installed)
-  1. VB .NET (`dotnet` installed)
-  1. Python (installed)
-  1. Perl (installed)
-  1. C (installed)
-  1. Rust (installed)
+These are all proven languages in this competition (sort of). This is the list I will most likely be choosing from for the remainder of the advent season.
+
+  1. JavaScript -- Definitely my goto for puzzles which don't have massive speed concerns.
+  1. C -- If I need the speed then C is there.
+  1. C# -- When I need the versatility of the .NET standard library, then C# will be used.
+  1. Python -- There may be some cases where Python is more practical than JavaScript.
+  1. F# -- If a functional solution seems like the best option, this will be here for me, otherwise still too new.
+  1. PHP -- Not sure when PHP would be the best option.
+  1. Perl -- Not sure when I'd choose Perl.
+  1. Rust -- New hotness, but still too unfamiliar to make it practical.
+  1. PowerShell -- Benched for performance reasons. If a puzzle requires me to query AD, then PS is back in the game.
+  1. VB .NET -- Can't really do anything C# can't and I'm far less familiar with it.
+
+I also may consider a multi-language solution where I parse the input with a language good at that, like Perl, and then pipe it in a more convenient form into a compiled C program to crunch numbers. Hmm.
 
 ### Less Likely Languages
 
-Languages which will probably not be used due to appropriateness or timeliness.
+Languages considered but not used due to appropriateness or timeliness. They are all installed on my laptop, so they are all still possibilities if I'm feeling particularly masochistic.
 
-  1. Go (installed)
-  1. Pascal (installed)
-  1. F# (`dotnet` installed)
-  1. C++ (installed)
-  1. Bash (installed)
-  1. Ruby (installed)
-  1. Crystal (installed)
-  1. R (installed)
-  1. D (installed)
-  1. Kotlin (installed)
+  * Go
+  * Pascal
+  * C++
+  * Bash
+  * Ruby
+  * Crystal
+  * R
+  * D
+  * Kotlin
 
 ## Languages Used
 
