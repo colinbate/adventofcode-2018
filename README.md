@@ -40,4 +40,6 @@ Languages which will probably not be used due to appropriateness or timeliness.
   * Day 5: C
   * Day 6: PowerShell / C
   * Day 7: Visual Basic
+  * Day 8: F#
+  * Day 9: Python
   
