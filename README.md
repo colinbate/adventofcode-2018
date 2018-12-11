@@ -47,4 +47,5 @@ Languages considered but not used due to appropriateness or timeliness. They are
   * Day 8: F#
   * Day 9: Python
   * Day 10: PHP
+  * Day 11: C
   
