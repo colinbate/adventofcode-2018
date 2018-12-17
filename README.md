@@ -52,3 +52,4 @@ Languages considered but not used due to appropriateness or timeliness. They are
   * Day 13: JavaScript
   * Day 14: JavaScript
   * Day 15: JavaScript
+  * Day 16: JavaScript
